@@ -6,6 +6,9 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+strong{
+    color: hsl(205, 100%, 40%);
+}
 
 
 
